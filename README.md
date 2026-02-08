@@ -6,11 +6,13 @@ A modern, lightweight, and user-friendly **Web-Based Point of Sale (POS) System*
 
 ## 📸 Preview
 
-> *(Add screenshots of your project UI here)*
 
 
+> *(Dashboard)*
 ![Dashboard](screenshots/1.png)
+ > *(Sales Page)*
 ![Sales Page](screenshots/3.png)
+ > *(Invoice)*
 ![Invoice](screenshots/4.png)
 
 
