@@ -9,7 +9,7 @@ A modern, lightweight, and user-friendly **Web-Based Point of Sale (POS) System*
 > *(Add screenshots of your project UI here)*
 
 
-![Dashboard] (https://github.com/salahuddin-saif/Web-Based-Pos-System/blob/9e253a71acc622b7c02b5b58223b6d99fa8eb4b3/screenshots/1.png?raw=true)
+![Dashboard](screenshots/1.png)
 ![Sales Page](screenshots/3.png)
 ![Invoice](screenshots/4.png)
 
@@ -184,7 +184,7 @@ Password: admin123
 
 Create a folder named **screenshots/** and add images:
 
-```md
+
 ![Login Page](screenshots/1.png)
 ![Product](screenshots/5.png)
 ![Add Product](screenshots/6.png)
@@ -194,7 +194,7 @@ Create a folder named **screenshots/** and add images:
 ![Store Settings](screenshots/10.png)
 ![Product](screenshots/11.png)
 ![My Profile](screenshots/13.png)
-```
+
 
 ---
 
