@@ -2,6 +2,8 @@
 
 A modern, lightweight, and user-friendly **Web-Based Point of Sale (POS) System** designed for small to medium businesses. Built using core web technologies with simplicity, performance, and ease of use in mind.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)]
+
+## FOR DEMO AND BUY
 <a href="https://wa.me/+8801531743690" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/whatsapp.png"/>
 </a>
