@@ -9,7 +9,7 @@ A modern, lightweight, and user-friendly **Web-Based Point of Sale (POS) System*
 > *(Add screenshots of your project UI here)*
 
 ```md
-![Dashboard](screenshots/1.png)
+![Dashboard](https://raw.githubusercontent.com/salahuddin-saif/Web-Based-Pos-System/refs/heads/main/screenshots/1.png)
 ![Sales Page](screenshots/3.png)
 ![Invoice](screenshots/4.png)
 ```
