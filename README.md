@@ -9,7 +9,7 @@ A modern, lightweight, and user-friendly **Web-Based Point of Sale (POS) System*
 
 
 > *(Dashboard)*
-![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/2.png)
  > *(Sales Page)*
 ![Sales Page](screenshots/3.png)
  > *(Invoice)*
@@ -186,15 +186,23 @@ Password: admin123
 
 Create a folder named **screenshots/** and add images:
 
-
+> *(Login Page)*
 ![Login Page](screenshots/1.png)
+> *(Product)*
 ![Product](screenshots/5.png)
+> *(Add Product)*
 ![Add Product](screenshots/6.png)
+> *(Print Lables)*
 ![Print Lables](screenshots/7.png)
+> *(Lebel Print Preveiew)*
 ![Lebel Print Preveiew](screenshots/8.png)
-![Manage Users](screenshots/9.png)
-![Store Settings](screenshots/10.png)
-![Product](screenshots/11.png)
+> *(Reports)*
+![Reports](screenshots/9.png)
+> *(Manage Users)*
+![Manage Users](screenshots/10.png)
+> *(Store Settings)*
+![Store Settings](screenshots/11.png)
+> *(My Profile)*
 ![My Profile](screenshots/13.png)
 
 
